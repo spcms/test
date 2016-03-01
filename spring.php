@@ -1,3 +1,4 @@
 <?
 echo "ok";
+echo "lalala";
 ?>
